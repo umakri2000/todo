@@ -1,0 +1,31 @@
+
+body{
+  transition: all 1s;
+  padding: 0;
+  margin: 0;
+  
+  height: 100vh;
+  font-family: Josefin;
+  
+  
+}
+@font-face {
+  font-family: 'Josefin';
+  src: url('./fonts/JosefinSans-Medium.ttf') format('truetype');
+       
+  font-weight: normal;
+  font-style: normal;
+
+}
+.inline{
+  display: inline-block;
+}
+.pointer{
+  cursor: pointer;
+}
+.hide{
+  display: none;
+}
+.floatright{
+  float: right;
+}
